@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  game_x_o:
+    image: ${DOCKER_REGISTRY-}gamexo
+    build:
+      context: .
+      dockerfile: Game_X_O/Dockerfile
+    ports:
+      - 80:80
+  
