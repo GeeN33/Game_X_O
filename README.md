@@ -42,6 +42,8 @@
      http://193.168.3.100/swagger/index.html
 
 
+![](swagger.png)
+
 
 
 
