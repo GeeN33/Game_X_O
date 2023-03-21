@@ -1,6 +1,6 @@
-# Задача #1 на стажировку backend developer C#
+# Реализация REST API игры в крестики нолики C#
 
-Реализация REST API игры в крестики нолики
+
 
 ## Описание
 
@@ -38,11 +38,6 @@
   В поле "playerTurn" можно посмотреть кто ходит.
 
 ###  deploy производится через docker-compose
-###  проект развернут в docker-compose на VPS
-###  посмотреть можно по адресу - 
-     http://193.168.3.100/api/Games/ 
-     http://193.168.3.100/swagger/index.html
-
 
 ![](swagger.png)
 
